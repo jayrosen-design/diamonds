@@ -1,2 +1,1 @@
-# diamonds
-AR demo - floating diamonds
+Experiments with ar.js and a-frame
